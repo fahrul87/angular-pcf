@@ -119,6 +119,10 @@
           }
         }
       }
-    }},
-  "defaultProject": "angular-pcf"
+    }
+  },
+  "defaultProject": "angular-pcf",
+  "cli": {
+    "analytics": "ec51e623-fdd8-4a21-b69a-989ed99b5839"
+  }
 }
